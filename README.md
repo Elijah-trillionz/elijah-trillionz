@@ -1,5 +1,7 @@
-| ### Hi there 👋  I am Elijah, a full-stack web developer, and once in a while app developer. I major in HTML, CSS, JavaScript, Python, and everything that has to do with these cool guys. Interesting thing is I love talking about web development, that is why I blog. | <a href="https://app.daily.dev/elijahtrillionz"><img src="https://api.daily.dev/devcards/1e82f983d632449cb917301ce2959d07.png?r=zr7" width="400" alt="Elijah Trillionz's Dev Card"/></a> |
-|--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| ### Hi there 👋 
+
+I am Elijah, a full-stack web developer, and once in a while app developer. I major in HTML, CSS, JavaScript, Python, and everything that has to do with these cool guys. Interesting thing is I love talking about web development, that is why I blog. | <a href="https://app.daily.dev/elijahtrillionz"><img src="https://api.daily.dev/devcards/1e82f983d632449cb917301ce2959d07.png?r=zr7" width="400" alt="Elijah Trillionz's Dev Card"/></a> |
+
 
 - 🔭 I’m currently working on Chevri. Chevri is the next big thing in time management and planning. Hopefully you will use it soon.
 
