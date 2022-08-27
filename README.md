@@ -1,4 +1,4 @@
-<img src="https://drive.google.com/file/d/1sPFMWxMgAsnbmbbv_lKulQD9VjpoFNGa/view?usp=sharing">
+<img src="https://dev-to-uploads.s3.amazonaws.com/uploads/articles/uzg21vaqwpm6c9dmmh5b.png">
 ========================================================================================================================================
 
 Web Developer and Technical Writer
