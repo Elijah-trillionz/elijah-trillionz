@@ -50,12 +50,12 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 
 <a href="https://github.com/elijah-trillionz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah-trillionz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
-### Support Me
-
-<a href="https://www.buymeacoffee.com/elijahtrillionz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
-
 ### Daily.Dev
 
 Practicing making reading an article daily a hobby
 
 <a href="https://app.daily.dev/elijahtrillionz"><img src="https://api.daily.dev/devcards/1e82f983d632449cb917301ce2959d07.png?r=zr7" width="400" alt="Elijah Trillionz's Dev Card"/></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/elijahtrillionz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
