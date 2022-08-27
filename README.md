@@ -1,73 +1,57 @@
-### Hey there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elijah Trillionz
+========================================================================================================================================
 
-I'm Elijah, a full-stack web developer, and once in a while app developer. I major in HTML, CSS, JavaScript, Python, and everything that has to do with these cool guys. Interesting thing is I love talking about web development, that is why I love writing technical articles.
+Web Developer and Technical Writer
+----------------------------------
+
+I major in HTML, CSS, JavaScript, Python, and everything that has to do with these cool guys. The interesting thing is I love talking about web development, which is why I love writing technical articles.
+
+* 🌍  I'm based in remote
+* ✉️  You can contact me at [onlinedailyblog@gmail.com](mailto:onlinedailyblog@gmail.com)
+* 🚀  I'm currently working on [Native JsonDB](http://github.com/Elijah-trillionz/native-json-db)
+* 🤝  I'm open to collaborating on technical articles
+
+<a href="https://www.twitter.com/elijahtrillionz" target="_blank" rel="noreferrer"><img
+src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
+/></a>
+
+### Skills
+
+<p align="left">
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
+<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" /></a>
+<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" /></a>
+<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" /></a>
+<a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" /></a>
+<a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" /></a>
+<a href="https://tailwindcss.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/tailwindcss-colored.svg" width="36" height="36" alt="TailwindCSS" /></a>
+<a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" /></a>
+<a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" /></a>
+<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" /></a>
+<a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" /></a>
+<a href="https://firebase.google.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/firebase-colored.svg" width="36" height="36" alt="Firebase" /></a>
+<a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/django-colored.svg" width="36" height="36" alt="Django" /></a>
+<a href="https://www.figma.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/figma-colored.svg" width="36" height="36" alt="Figma" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.dev.to/elijahtrillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/devdotto.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/elijahtrillionz.eth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/elijah-trillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://elijahtrillionz.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elijah-trillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elijahtrillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/elijah-trillionz"><img src="https://github-readme-stats.vercel.app/api?username=elijah-trillionz&show_icons=true&hide=&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&show_icons=true" alt="elijah-trillionz's GitHub stats" /></a>
+
+<a href="http://www.github.com/elijah-trillionz"><img src="https://github-readme-streak-stats.herokuapp.com/?user=elijah-trillionz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
+
+<a href="https://github.com/elijah-trillionz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah-trillionz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
+
+### Support Me
+
+<a href="https://www.buymeacoffee.com/elijahtrillionz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
 
 <a href="https://app.daily.dev/elijahtrillionz"><img src="https://api.daily.dev/devcards/1e82f983d632449cb917301ce2959d07.png?r=zr7" width="400" alt="Elijah Trillionz's Dev Card"/></a>
-
-- 🔭 I’m currently working on Chevri. Chevri is the next big thing in time management and planning. Hopefully you will use it soon.
-
-- 🌱 I’m currently learning everything/anything. Yeah I never stop learning. But that doesn't make me jump into new tech stack to learn it. I do a lot of review, read a lot of articles, watch a lot of videos before deciding to learn a framework/language
-
-- 🤔 I’m looking for help with [devRoadMap](https://devroadmap.vercel.app). devRoadMap is a simple website I made for people who want to learn programming but have no idea to get started. It porvides a road map dependening on the user's interest. I'm looking for help on more resources for this wonderful website
-
-- 💬 Ask me about web development
-
-- 📫 How to reach me: I am reachable via [twitter @elijahtrillionz](https://twitter.com/elijahtrillionz), [marketing email](mailto:onlinedailyblog@gmail.com)
-
-- ⚡ Fun fact: getting to know me is a forever fun fact (f3) (honestly wanna make it f-cube but I don't know how it's done with my keyboard, or let's just say f^3. Happy now)
-
-### Some of My Notable Projects
-
-#### [Initial SortCode](https://initial-sortcode.vercel.app/)
-
-Initial Sortcode is an app for coding exercises and quizzes. It was inspired by the Facebook 2021 Hackathon, I was just about 4 months old in coding then. And yeah I didn't win.
-
-Tasks:
-
-- provide solutions in different languages (about 8 of them) to coding tasks based on three levels beginners, intermediates, and experts
-- view solutions by other developers
-- like a solution
-- bookmark a solution
-- benchmark a solution to see which is more efficient in speed
-- view all task solutions you have provided based on the three levels listed above
-- level up in the ultimate task leaderboard - showing top developers with the highest number of likes per solutions
-
-Quizzes:
-
-- pick an answer from two/four options
-- see solution to the answer
-- view history of quizzes answered
-- level up in the ultimate quiz leaderboard - showing top developers with the most score
-
-But to access all these cool features you will have to register/login with GitHub/Discord
-
-#### [TrillSound](https://trillsound.vercel.app/)
-
-TrillSound is an app for downloading Gospel songs - specifically [Loveworld](pastorchrisonline.org) songs. It contains a list of 
-
-- trending songs (calculated based on views and downloads), 
-- trending artists - a bio of each artist exists, 
-- trending songs of the previous month (based on when it was uploaded)
-- recently uploaded songs, and alphabetically ordered songs/artists
-
-Each of the songs are categorized into different genres and can be as well sorted by trending, recently uploaded, and alphabetical order.
-
-It also contains a customized audio player that let's you play the song before download.
-
-The website also contains an admin dashboard, where admins can login and upload, view, and delete songs/bios.
-
-If you're going to visit the website now, kindly let our [heroku dyno wake up first](https://dev.to/elijahtrillionz/your-heroku-app-is-slow-to-load-because-of-this-4lep). If you know you know :)
-
-#### [SortCode](https://sortcode.vercel.app/)
-
-This is the new SortCode, totally different purposes. Yeah am not very good with naming.
-
-#### [LionTaxi / LionTaxi Drivers / LionTaxi Admin Dashboard](https://liontaxi.vercel.app/)
-
-A cross-platform mobile application for booking rides in Nigeria
-
-#### [MaProfile](https://maprofile-vercel.vercel.app/)
-
-An application built for OAuth
-
-More on the last three. Stay tuned
