@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Elijah Trillionz
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif) My name is Elijah Trillionz
 ========================================================================================================================================
 
 Web Developer and Technical Writer
@@ -53,5 +53,7 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 ### Support Me
 
 <a href="https://www.buymeacoffee.com/elijahtrillionz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
+
+### Practicing making reading an article a hobby
 
 <a href="https://app.daily.dev/elijahtrillionz"><img src="https://api.daily.dev/devcards/1e82f983d632449cb917301ce2959d07.png?r=zr7" width="400" alt="Elijah Trillionz's Dev Card"/></a>
