@@ -50,6 +50,8 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 
 <a href="https://github.com/elijah-trillionz" align="left"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=elijah-trillionz&langs_count=10&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" /></a>
 
+[![An image of @elijahtrillionz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elijahtrillionz)](https://holopin.io/@elijahtrillionz)
+
 ### Daily.Dev
 
 Practicing making reading an article daily a hobby
