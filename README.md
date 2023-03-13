@@ -39,7 +39,25 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 ## Projects
 These are projects that I built either for a client or for myself. These projects are all functional web applications/library that you can try out to see how it works for yourself. In order of last created
 
-### [SortCode](https://sortcode.vercel.app) - [Code](https://github.com/Elijah-trillionz/sortcode)
+### [TrillSound](https://trillsound.vercel.app/) - [code](https://github.com/Elijah-trillionz/trillsound)
+A web app for uploading, playing and downloading Loveworld songs
+
+<details>
+  <summary>
+    See more on project
+  </summary>
+  <br />
+  <p>TrillSound lets users play and download Loveworld songs while admins upload these songs. Loveworld songs are songs by artists of Believers Loveworld Inc. A.K.A Christ Embassy. Each songs are displayed in the homepage and can be sorted in alphabetical, newly uploaded, and trending order. It can also be filtered to display different genres of songs available in our database. Furthermore, the app ranks all songs based on most played and most downloaded in the current and previous month</p>
+  
+  <b>A screenshot of the home page:</b>
+  
+  <img width="959" alt="trillsound-homepage" src="https://user-images.githubusercontent.com/60356516/224654257-4e810ceb-2abf-4e16-98b1-4eb722349fa7.png">
+
+  <p>Each song has a dedicated page that displays a little detail about the song, the artist, and the related songs and other songs from the artist. Furthermore, there is an artist page that exists for artists biography with their songs</p>
+  
+</details>
+
+### [SortCode](https://sortcode.vercel.app) - [code](https://github.com/Elijah-trillionz/sortcode)
 A web app for developers to improve through coding exercises/tasks, and quizzes.
 
 <details>
