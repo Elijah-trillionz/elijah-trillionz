@@ -15,7 +15,7 @@ I major in HTML, CSS, JavaScript, and some the cool frameworks of JavaScript lik
 src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
 
-### Skills
+## Skills
 
 <p align="left">
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
@@ -36,15 +36,37 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
   <a href="https://www.vite.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/4442a351ea1871ad8ba08a4ec82cb8eae9d73b8b/public/icons/skills/vite-colored.svg" width="36" height="36" alt="Vite" /></a>
 </p>
 
-### Projects
+## Projects
+These are projects that I built either for a client or for myself. These projects are all functional web applications/library that you can try out to see how it works for yourself. In order of last created
+
+### [SortCode](https://sortcode.vercel.app) - [Code](https://github.com/Elijah-trillionz/sortcode)
+A web app for developers to improve through coding exercises/tasks, and quizzes.
+
+<details>
+  <summary>
+    See more on project
+  </summary>
+  <br />
+  <p>
+    The quizzes are made of two or four options which the user should select the correct one. Each correct answer attracts a 5 point, and a leaderboard is also available to show the users with most points. The quizzes are only available in HTML, CSS and JavaScript. The main purpose of the quizzes is for memory refreshal, the questions aren't intense but they remind you of what you may have forgotten after a break or something.</p>
+
+__A screenshot of the quiz page:__
+
+<img width="959" alt="sortcode-quiz" src="https://user-images.githubusercontent.com/60356516/224643917-25b1ea3d-62c1-4a48-af02-a52ead9cdd5e.png">
+
+The tasks section are tasks (in beginner, intermediate, and expert level) that can be attempted in different programming languages. Attempts to a task by all users are displayed in a different section, this is where you can upvote other solutions to the problems. Users with the most upvotes are also shown in a leaderboard as well.
+
+__A screenshot of the tasks page:__
+
+<img width="959" alt="sortcode-tasks" src="https://user-images.githubusercontent.com/60356516/224644093-3d03bac8-298d-4b39-a0d6-51566b3ad9a1.png">
+</details>
 
 
-
-### Socials
+## Socials
 
 <p align="left"> <a href="https://www.dev.to/elijahtrillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/profileme-dev/4442a351ea1871ad8ba08a4ec82cb8eae9d73b8b/public/icons/socials/devdotto-dark.svg" width="32" height="32" /></a> <a href="https://www.facebook.com/elijahtrillionz.eth" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/facebook.svg" width="32" height="32" /></a> <a href="https://www.github.com/elijah-trillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /></a> <a href="https://elijahtrillionz.hashnode.dev" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/hashnode.svg" width="32" height="32" /></a> <a href="https://www.linkedin.com/in/elijah-trillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a> <a href="https://www.twitter.com/elijahtrillionz" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/twitter.svg" width="32" height="32" /></a></p>
 
-### Badges
+## Badges
 
 <b>My GitHub Stats</b>
 
@@ -56,12 +78,12 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 
 [![An image of @elijahtrillionz's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/elijahtrillionz)](https://holopin.io/@elijahtrillionz)
 
-### Daily.Dev
+## Daily.Dev
 
 Practicing making reading an article daily a hobby
 
 <a href="https://app.daily.dev/elijahtrillionz"><img src="https://api.daily.dev/devcards/1e82f983d632449cb917301ce2959d07.png?r=zr7" width="400" alt="Elijah Trillionz's Dev Card"/></a>
 
-### Support Me
+## Support Me
 
 <a href="https://www.buymeacoffee.com/elijahtrillionz"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="200" /></a>
