@@ -39,6 +39,33 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 ## Projects
 These are projects that I built either for a client or for myself. These projects are all functional web applications/library that you can try out to see how it works for yourself. In order of last created
 
+### [LionTaxi](https://liontaxi.vercel.app)
+A mobile app for booking Taxis around Nigeria. There is also a web app that represents an admin dashboard for monitoring real-time rides and other data.
+
+<details>
+  <summary>
+    See more on project
+  </summary>
+  <br />
+  <p>The mobile app for users was made available on Apple store and Google play store. While the mobile app for drivers was initially only for android users. Both apps work hand in hand to give the users, the best experience. With the users' app, a ride from a location to a destination can be booked with any available driver. And from then on the driver controls each ride in the drivers app once the trip is started.</p>
+  
+  <b>The users app</b>
+  
+  ![image](https://user-images.githubusercontent.com/60356516/224713348-f3d3b14f-c3b2-418a-9efb-90b288287e32.png)
+
+  <b>The drivers app</b>
+  
+  ![image](https://user-images.githubusercontent.com/60356516/224713900-ce1f6ff7-9bac-413b-8c1a-c3603ed61ee5.png)
+  
+  <p>The dashboard lets the admin monitor each ride as well as view the data of the users and drivers of the application. The admin can also make changes to the prices of each type of cars as well as approve an applicant as an official driver</p>
+    
+  <b>The dashboard:</b>
+    
+  ![image](https://user-images.githubusercontent.com/60356516/224714767-17c86447-c3d8-4d2e-acdc-b8e4e423c099.png)
+
+
+</details>
+
 ### [TrillSound](https://trillsound.vercel.app/) - [code](https://github.com/Elijah-trillionz/trillsound)
 A web app for uploading, playing and downloading Loveworld songs
 
