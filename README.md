@@ -39,8 +39,11 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 ## Projects
 These are projects that I built either for a client or for myself. These projects are all functional web applications/library that you can try out to see how it works for yourself. In order of last created
 
+### [devBugDocs](https://devbugdocs.vercel.app) - [code](https://github.com/Elijah-trillionz/devBugDocs)
+A web app for documenting common bugs and solutions for reference purposes. Oftentimes you'd come across a bug as a dev and if two months later you come across same bug, chances are you'd have forgotten the exact solution. And as such you go through the same process you went through while finding the solution for the bug 2 months ago. With this you can doc down solutions of bugs that were pretty stressful for you to find.
+
 ### [CeMidwestZone](https://cemidwestzone.vercel.app)
-A streaming web application created for Christ Embassy MidWest Zone for streaming live services.
+A live streaming web application created for Christ Embassy MidWest Zone for streaming live services.
 
 <details>
   <summary>
