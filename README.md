@@ -39,6 +39,30 @@ src="https://img.shields.io/twitter/follow/elijahtrillionz?logo=twitter&style=fo
 ## Projects
 These are projects that I built either for a client or for myself. These projects are all functional web applications/library that you can try out to see how it works for yourself. In order of last created
 
+### [CeMidwestZone](https://cemidwestzone.vercel.app)
+A streaming web application created for Christ Embassy MidWest Zone for streaming live services.
+
+<details>
+  <summary>
+    See more on project
+  </summary>
+  <br />
+  <p>
+    The web app has a well informing and introductory homepage for first time users with sections that describe what the church is about, the service days, a feedback system for new converts and a gallary section that displays images of the church.
+  </p>
+  
+  <b>A screenshot of the homepage:</b>
+  
+  <img width="959" alt="cemidwestzone-homepage" src="https://user-images.githubusercontent.com/60356516/225873300-eafe0bc6-8418-47ee-9f56-b0fb16b06df0.png">
+  
+  <p>The web app also include an admin section for creating services, managing services, users, and feedbacks</p>
+  
+  <b>A screenshot of the admin page</b>
+  
+  <img width="958" alt="cemidwestzone-adminpage" src="https://user-images.githubusercontent.com/60356516/225874665-ad131a58-8cf1-4959-8a0a-36c08adb3f4a.png">
+    
+</details>
+
 ### [LionTaxi](https://liontaxi.vercel.app)
 A mobile app for booking Taxis around Nigeria. There is also a web app that represents an admin dashboard for monitoring real-time rides and other data.
 
